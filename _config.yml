@@ -3,7 +3,7 @@ description: Développeur Web
 locale: fr-FR
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 
 author:
   name: CREMONA Christopher
@@ -24,14 +24,12 @@ include:
   - _pages
 
 header:
-  nav: true
-
-navigation:
-  - title: Accueil
-    url: /
-  - title: Projets
-    url: /projects/
-  - title: À propos
-    url: /about/
-  - title: Contact
-    url: /contact/
+  nav:
+    - title: Accueil
+      url: /
+    - title: Projets
+      url: /projects/
+    - title: À propos
+      url: /about/
+    - title: Contact
+      url: /contact/

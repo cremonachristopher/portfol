@@ -1,10 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4.1"
-gem "minimal-mistakes-jekyll", "~> 4.27"
-
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-end
+gem "github-pages", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
