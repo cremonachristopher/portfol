@@ -3,7 +3,7 @@ description: Développeur Web
 locale: fr-FR
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 
 author:
   name: CREMONA Christopher

@@ -1,17 +1,7 @@
 ---
-title: À propos
 layout: single
+title: À propos
 permalink: /about/
 ---
 
-
-## Qui suis-je ?
-
-
-Développeur spécialisé en **HTML, CSS, JavaScript et Jekyll**.
-
-
-### Compétences
-- Frontend
-- UI / UX
-- Performance Web
+Je suis Christopher, développeur web passionné par le design et la performance.
